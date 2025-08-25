@@ -47,24 +47,11 @@ The workshop introduced a variety of AI-powered tools that simplify content crea
 
 ## 🔗 Resources
 
-<p align="left">
-  <a href="https://chat.openai.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openai/openai-original.svg" alt="ChatGPT" width="40" height="40"/>
-  </a>
-  <a href="https://www.anthropic.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Anthropic_logo.svg" alt="Claude" width="90" height="40"/>
-  </a>
-  <a href="https://gamma.app/" target="_blank">
-    <img src="https://avatars.githubusercontent.com/u/122539725?s=200&v=4" alt="Gamma" width="40" height="40"/>
-  </a>
-  <a href="https://bricks.ai/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/brick-wall.png" alt="Bricks" width="40" height="40"/>
-  </a>
-  <a href="https://juvios.com/" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/000000/artificial-intelligence.png" alt="Juvios" width="40" height="40"/>
-  </a>
-</p>
-
+- [ChatGPT](https://chat.openai.com/)  
+- [Claude](https://www.anthropic.com/)  
+- [Gamma](https://gamma.app/)  
+- [Bricks](https://bricks.ai/)  
+- [Juvios](https://juvios.com/)  
 
 ---
 
