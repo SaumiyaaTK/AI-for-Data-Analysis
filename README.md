@@ -3,9 +3,9 @@
 This repository documents my learnings and takeaways from attending the **AI Tools and ChatGPT Workshop**.  
 The workshop introduced a variety of AI-powered tools that simplify content creation, automate tasks, and enable the building of stunning dashboards and presentations in minutes.
 
-<div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/Artificial_Intelligence_%26_Machine_Learning.png" alt="AI Logo" width="300"/>
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SaumiyaaTK/AI-for-Data-Analysis/main/assets/ai-logo.png" alt="AI Logo" width="300">
+</p>
 
 ---
 
