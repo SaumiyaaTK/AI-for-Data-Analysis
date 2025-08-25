@@ -5,7 +5,7 @@
 
 ---
 
-## 🧑‍💻 Tools I Learned
+## 🧑‍💻 Tools
 
 ### 1. **ChatGPT**
 - Conversational AI for brainstorming, writing, coding, and problem-solving.
@@ -44,14 +44,42 @@
 
 ---
 
-
 ## 🔗 Resources
 
 - [ChatGPT](https://chat.openai.com/)  
 - [Claude](https://www.anthropic.com/)  
 - [Gamma](https://gamma.app/)  
 - [Bricks](https://bricks.ai/)  
-- [Juvios](https://juvios.com/)  
+- [Julius](https://julius.com/)  
+
+---
+
+## 📂 Projects & Presentations
+
+1. **Sales Performance Dashboard**  
+   - Tool: ChatGPT 
+   - Sample Data Table: Kaggle 
+   - [View Dashboard](ChatGPT/)
+
+2. **Customer Sales Dashboard**
+   - Tool: Claude  
+   - Insights generated with: ChatGPT   
+   - [View PPT](Gamma/)
+  
+4. **Data Analytics Presentation**  
+   - Tool: Gamma  
+   - Presentation Slide Resources: Grok 
+   - [View PPT](Gamma/)
+
+5. **Employee Attendance & Productivity Dashboard**  
+   - Tool: Bricks 
+   - Analytics Data Source: Kaggle  
+   - [View Dashboard](Bricks/)
+
+6. **Student Analytics Dashboard**  
+   - Tool: Julius  
+   - Student Records Data File:  
+   - [View PPT](Julius/)
 
 ---
 
