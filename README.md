@@ -3,6 +3,10 @@
 This repository documents my learnings and takeaways from attending the **AI Tools and ChatGPT Workshop**.  
 The workshop introduced a variety of AI-powered tools that simplify content creation, automate tasks, and enable the building of stunning dashboards and presentations in minutes.
 
+<p align="center">
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.shutterstock.com%2Fsearch%2Fai&psig=AOvVaw244Ny1z5NNMtJIwnC4zP0Z&ust=1756173411902000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJCgu_XtpI8DFQAAAAAdAAAAABAE" alt="React Logo" width="120" height="120"/>
+</p>
+
 ---
 
 ## 🧑‍💻 Tools I Learned
