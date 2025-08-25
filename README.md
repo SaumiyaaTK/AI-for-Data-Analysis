@@ -4,7 +4,7 @@ This repository documents my learnings and takeaways from attending the **AI Too
 The workshop introduced a variety of AI-powered tools that simplify content creation, automate tasks, and enable the building of stunning dashboards and presentations in minutes.
 
 <p align="center">
-  <img src="https://img.icons8.com/fluency/240/artificial-intelligence.png" alt="AI Logo" width="200"/>
+  <img src="https://img.icons8.com/fluency/240/artificial-intelligence.png" alt="AI Logo" width="100"/>
 </p>
 
 ---
